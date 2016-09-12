@@ -1,0 +1,24 @@
+# NOTE: Each line of the input file represents it's own "mini-program"!
+# If the associated code is used as a starting point for your OWN compiler,
+# You will probably need to alter the "Compiler" class to build A SINGLE 
+# input string from the ENTIRE file instead of processing each input line separately!
+
+the rat hates the dog
+
+the dog quickly eats a cat
+
+the cat loves the dog
+
+a cat chases the rat
+
+the dog eats the cat
+
+the dogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdogdog eats a cat
+
+a rat secretly hates the dog
+
+cat eats dog
+
+a cat eats a rat
+
+the cat secretly hates the rat
